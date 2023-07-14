@@ -1,0 +1,19 @@
+{
+    "name": "june/jwt",
+    "description": "JWT Singleton encapsulation",
+    "authors": [
+        {
+            "name": "JuneChen",
+            "email": "juneswoole@163.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "June\\JWT\\": "src/"
+        }
+    }
+}
